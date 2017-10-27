@@ -1,0 +1,1 @@
+webpackJsonp([4,6],{880:function(e,t){e.exports={content:["article"],meta:{category:"\u7ec4\u4ef6",title:"\u79fb\u52a8\u5fae\u4fe1\u7ed1\u5b9a",subtitle:"\u7ed1\u5b9a\u9875\u9762",filename:"components/mobilebindpage/index.zh-CN.md"},toc:["ul"]}}});
