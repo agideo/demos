@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "antd": "^2.12.2",
+    "antd-mobile": "^2.0.0",
     "antd-tools": "^2.1.5",
     "bezier-easing": "^2.0.3",
     "color-standalone": "^0.11.6",
